@@ -40,15 +40,6 @@ By leveraging Flutter's cross-platform development capabilities.
 7. MySQL
 8. Next Gen AI
 
-## How To Contribute
-
-### How to Contribute
-
-1. Fork the repository by clicking the "Fork" button on the top right of the repository page.
-
-2. Clone your forked repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/repository-name.git
 
 
 ## Road Map 
@@ -57,3 +48,11 @@ By leveraging Flutter's cross-platform development capabilities.
 2. Partnership : We can 
 *. **collaborate**:  selling platforms,Local Business Associations,Local Government Agencies,Online Market Places , Digital Marketing Agencies and Financial Institutions
 3. Exploring various monetization strategies such as premium features, subscription models and  offering advertising opportunities within the app could generate revenue while providing exposure for sellers.
+
+### How to Contribute
+
+1. Fork the repository by clicking the "Fork" button on the top right of the repository page.
+
+2. Clone your forked repository to your local machine:
+   ```bash
+   git clone https://github.com/your-username/repository-name.git
