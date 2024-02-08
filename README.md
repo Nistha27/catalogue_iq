@@ -39,6 +39,9 @@ By leveraging Flutter's cross-platform development capabilities.
 6. Flask
 7. MySQL
 8. Next Gen AI
+9. Dart
+10. Swift
+11. HTML
 
 
 
