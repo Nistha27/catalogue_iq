@@ -66,4 +66,10 @@ By leveraging Flutter's cross-platform development capabilities.
 
 ## Brand Kit
 
-[Download PDF](https://github.com/username/repository/blob/branch/path/to/your/file.pdf)
+
+<img src="assets\images\brand_kit\1.png" alt="Alt text" width=""/>
+<img src="assets\images\brand_kit\2.png" alt="Alt text" width=""/>
+<img src="assets\images\brand_kit\IQ 3.png" alt="Alt text" width=""/>
+<img src="assets\images\brand_kit\IQ 4.png" alt="Alt text" width=""/>
+<img src="assets\images\brand_kit\IQ 5.png" alt="Alt text" width=""/>
+<img src="assets\images\brand_kit\IQ 6.png" alt="Alt text" width=""/>
