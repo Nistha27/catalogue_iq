@@ -5,14 +5,16 @@ import 'package:catalogue_iq/intro_pages/intro_2.dart';
 import 'package:catalogue_iq/intro_pages/intro_3.dart';
 import 'package:catalogue_iq/intro_pages/login_page.dart';
 import 'package:flutter/material.dart';
-
+import 'package:firebase_core/firebase_core.dart';
 
 void main(){
-  runApp( const MyApp());
+  WidgetsFlutterBinding.ensureInitialized();
+  runApp(  MyApp());
 }
 
 class MyApp extends StatelessWidget{
-    const MyApp({super.key});
+     MyApp({super.key});
+    final Future<FirebaseApp> _initialization = Firebase.initializeApp();
   @override
   Widget build (BuildContext context){
     return MaterialApp(
@@ -38,6 +40,7 @@ class MyApp extends StatelessWidget{
         ),
       ),
      ),
+     
     );
   }
 }

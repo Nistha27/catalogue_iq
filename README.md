@@ -52,7 +52,7 @@ By leveraging Flutter's cross-platform development capabilities.
 
 1. **Market Expansion** : Initially starting with local sellers we plan to target the companies in the future. 
 2. Partnership : We can 
-**collaborate on **:  selling platforms,Local Business Associations,Local Government Agencies,Online Market Places , Digital Marketing Agencies and Financial Institutions
+**collaborate on**:  selling platforms,Local Business Associations,Local Government Agencies,Online Market Places , Digital Marketing Agencies and Financial Institutions
 3. Exploring various monetization strategies such as premium features, subscription models and  offering advertising opportunities within the app could generate revenue while providing exposure for sellers.
 
 ### How to Contribute
